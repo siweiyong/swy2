@@ -18,7 +18,7 @@ int main() {
     cout<<"failed"<<endl;
   };
   Mat large;
-  Size dsize;
+  Size  dsize;
   dsize.width=1280;
   dsize.height=1024;
   while (true) {
